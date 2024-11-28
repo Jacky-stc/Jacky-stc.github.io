@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9573],{3539:e=>{e.exports=JSON.parse('{"tag":{"label":"call stack","permalink":"/tags/call-stack","allTagsPath":"/tags","count":1,"items":[{"id":"JavaScript/Event loop","title":"Event loop","description":"Event loop","permalink":"/JavaScript/Event loop"}],"unlisted":false}}')}}]);

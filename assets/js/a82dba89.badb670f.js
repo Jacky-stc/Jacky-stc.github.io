@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5696],{3309:e=>{e.exports=JSON.parse('{"tag":{"label":"queue","permalink":"/tags/queue","allTagsPath":"/tags","count":1,"items":[{"id":"JavaScript/Event loop","title":"Event loop","description":"Event loop","permalink":"/JavaScript/Event loop"}],"unlisted":false}}')}}]);

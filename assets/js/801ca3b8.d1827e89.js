@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9317],{4209:e=>{e.exports=JSON.parse('{"tag":{"label":"microtask","permalink":"/tags/microtask","allTagsPath":"/tags","count":1,"items":[{"id":"JavaScript/Event loop","title":"Event loop","description":"Event loop","permalink":"/JavaScript/Event loop"}],"unlisted":false}}')}}]);
